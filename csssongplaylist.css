@@ -1,0 +1,59 @@
+#div
+{
+ background-color:violet;
+ float:right;
+ height:400px;
+ width:300px;
+ margin:50px 150px 100px 300px;
+ border:dotted 5px yellow;
+box-shadow:5px 5px 50px white;
+border-radius:25% 0px 25% 0px;
+background-image:radial-gradient(green,yellow,red,blue,purple);
+color:white;
+
+
+}
+#td1:hover
+{
+ background-color:cyan;
+ border:solod 2px black;
+box-shadow:2px 2px 2px blue;
+color:purple;
+
+}
+
+
+
+
+#h1
+{
+color:white;
+margin:50px 20px 10px 20px;
+}
+#h2
+{
+color:white;
+margin:50px 20px 10px 20px;
+font-size:20px;
+}
+#btn1
+{
+background-color:cyan;
+color:purple;
+height:50px;
+ width:150px;
+border-radius:20px ;
+margin:0px 100px 100px 100px;
+font-size:25px;
+font-style:italic;
+border:solid 2px red; 
+}
+body{
+background:url("playlist1.jpeg");
+
+height:100%;
+width:100%;
+
+
+
+}
